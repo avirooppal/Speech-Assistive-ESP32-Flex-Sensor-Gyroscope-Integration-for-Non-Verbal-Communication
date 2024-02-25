@@ -1,0 +1,1 @@
+# Speech-Assistive-ESP32-Flex-Sensor-Gyroscope-Integration-for-Non-Verbal-Communication
